@@ -1,0 +1,41 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///zhihu_copy?serverTimezone=Asia/Shanghai&useUnicode=true&characterEncoding=utf8
+    username: root
+    password: 123456
+    type: com.alibaba.druid.pool.DruidDataSource
+  main:
+    banner-mode: off
+  mvc:
+    static-path-pattern: /static/**
+    view:
+      prefix: classpath:/static/
+      suffix: .html
+  resources:
+    static-locations: classpath:/static/
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 500MB
+
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+  tomcat:
+    max-swallow-size: 100MB
+    max-http-form-post-size: -1
+
+mybatis-plus:
+  global-config:
+    banner: false
+    db-config:
+      id-type: assign_id
+      logic-delete-field: deleted
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+

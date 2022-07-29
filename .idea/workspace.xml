@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e1ba310-89c9-4bf6-8994-37843b6caa80" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="28h64ELaQKQ18kDBCI2YmNtlpHg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/meenie/domain" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\msi\IdeaProjects\zhihu_copy\src\main\resources\static\static\media" />
+      <recent name="C:\Users\msi\IdeaProjects\zhihu_copy\src\main\resources\static" />
+      <recent name="C:\Users\msi\IdeaProjects\zhihu_copy\src\main\java\com\meenie" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.meenie.domain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ZhihuCopyApplication">
+    <configuration name="UserServiceTest.getById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zhihu_copy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meenie.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meenie.service" />
+      <option name="MAIN_CLASS_NAME" value="com.meenie.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="getById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.getUserList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zhihu_copy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meenie.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meenie.service" />
+      <option name="MAIN_CLASS_NAME" value="com.meenie.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="getUserList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZhihuCopyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zhihu_copy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.meenie.ZhihuCopyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.getUserList" />
+        <item itemvalue="JUnit.UserServiceTest.getById" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e1ba310-89c9-4bf6-8994-37843b6caa80" name="Changes" comment="" />
+      <created>1651656277892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651656277892</updated>
+      <workItem from="1651656279022" duration="13148000" />
+      <workItem from="1651754575885" duration="2248000" />
+      <workItem from="1651925508306" duration="15086000" />
+      <workItem from="1651979529540" duration="13481000" />
+      <workItem from="1652507910854" duration="2613000" />
+      <workItem from="1652580144933" duration="7565000" />
+      <workItem from="1652704106802" duration="2976000" />
+      <workItem from="1652875662259" duration="3661000" />
+      <workItem from="1652964149789" duration="2660000" />
+      <workItem from="1653112451011" duration="11047000" />
+      <workItem from="1653185398569" duration="13759000" />
+      <workItem from="1653311206254" duration="2145000" />
+      <workItem from="1653399856425" duration="897000" />
+      <workItem from="1653479458878" duration="631000" />
+      <workItem from="1653703780264" duration="15532000" />
+      <workItem from="1653802646022" duration="2440000" />
+      <workItem from="1653999082662" duration="1303000" />
+      <workItem from="1654084642996" duration="618000" />
+      <workItem from="1654175317245" duration="3610000" />
+      <workItem from="1654223978983" duration="8049000" />
+      <workItem from="1654307841677" duration="11040000" />
+      <workItem from="1654399440565" duration="4479000" />
+      <workItem from="1654519314566" duration="3859000" />
+      <workItem from="1654689783681" duration="650000" />
+      <workItem from="1654776862963" duration="323000" />
+      <workItem from="1654865343908" duration="627000" />
+      <workItem from="1654915649545" duration="592000" />
+      <workItem from="1655021527239" duration="700000" />
+      <workItem from="1655121074817" duration="613000" />
+      <workItem from="1655209962195" duration="5554000" />
+      <workItem from="1655293292742" duration="8650000" />
+      <workItem from="1655380643145" duration="7859000" />
+      <workItem from="1655477559667" duration="2056000" />
+      <workItem from="1655519824534" duration="709000" />
+      <workItem from="1655631366701" duration="1816000" />
+      <workItem from="1655814319009" duration="7824000" />
+      <workItem from="1655909295244" duration="1216000" />
+      <workItem from="1656123484726" duration="5270000" />
+      <workItem from="1656141136893" duration="1213000" />
+      <workItem from="1656218556355" duration="9405000" />
+      <workItem from="1656330931538" duration="594000" />
+      <workItem from="1656593877525" duration="635000" />
+      <workItem from="1656679024883" duration="1225000" />
+      <workItem from="1656732542612" duration="1805000" />
+      <workItem from="1656812898785" duration="1194000" />
+      <workItem from="1657026259257" duration="1237000" />
+      <workItem from="1658132566570" duration="501000" />
+      <workItem from="1658491765333" duration="669000" />
+      <workItem from="1658546363318" duration="1219000" />
+      <workItem from="1658638091600" duration="706000" />
+      <workItem from="1658832896310" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
